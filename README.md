@@ -2,6 +2,23 @@
 **Problem Statement**![image](https://github.com/user-attachments/assets/87b4670d-667d-4ca9-b060-cef3bef63043)
 Healthcare (Telemedicine Solution for Rural Areas)Access to healthcare in rural areas is limited due to a shortage of medical professionals and facilities. Many patients face difficulties in getting timely consultations, leading to worsening health conditions. This project aims to develop a telemedicine platform to connect rural patients with doctors for remote consultations![image](https://github.com/user-attachments/assets/5e08546e-978c-4371-aa90-4bfe6bf7d956)
 **Technology  used**![image](https://github.com/user-attachments/assets/6d89b10b-9993-47e9-a166-59a37dc1f1a0)
+**1. Web & Mobile Development
+*Front end
+*Back end
+*Database
+2. Cloud Computing & Hosting
+*Cloud service
+*storage and database
+3. Video Conferencing & Communication
+*AI Chatbots 
+*Medical image Analysis
+4. IoT Integration (For Remote Patient Monitoring, If Needed)
+*Wearable Devices
+*Connectivity
+5. Security & Privacy (Essential for Healthcare Compliance)
+*Data Encryption
+*Authentication
+*Compliance Standards**
 
 ![image](https://github.com/user-attachments/assets/c6748bce-5616-4ad5-9ca5-784aa89f5fed)
 **Wow factors**![image](https://github.com/user-attachments/assets/99613a3e-356f-4978-bd6f-a456fe538d4c)
